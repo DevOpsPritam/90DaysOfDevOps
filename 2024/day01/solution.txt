@@ -1,3 +1,5 @@
 what is DevOps
 
 Ans:- DevOps is a culture!
+
+Author :- Pritam Shinde 24072024
